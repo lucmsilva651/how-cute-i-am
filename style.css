@@ -1,0 +1,30 @@
+body {
+  padding: 30px;
+  text-align: center;
+  background-color: #0f0f0f;
+  color: #ffffff;
+  zoom: 125%;
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+meter {
+  scale: 2;
+}
+
+hr {
+ width: 50%; 
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+a:hover, a:visited, a:active {
+  font-weight: bold;
+}
+
+#footer {
+  font-size: small;
+  color: #bababa;
+}

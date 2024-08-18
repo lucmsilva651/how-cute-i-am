@@ -1,0 +1,12 @@
+{
+  "header": "Teste de fofura",
+  "cute_low": "Você é {value}% fofo…",
+  "results_low": "Você não é muito fofo. Recarregue a página ou clique em qualquer lugar se deseja tentar novamente.",
+  "cute_mid": "Você é {value}% fofo.",
+  "results_mid": "Você é de alguma maneira fofo. Recarregue a página ou clique em qualquer lugar se deseja tentar novamente. ",
+  "cute_high": "Você é {value}% fofo!",
+  "results_high": "Você é muito fofo! Sinta-se livre para recarregar a página ou clique em qualquer lugar se deseja um resultado diferente.",
+  "cute_max": "Você é {value}% fofooo!!!",
+  "results_max": "Você é absolutamente adorável! Se você está curioso, recarregue a página ou clique em qualquer lugar para ver se algo muda.",
+  "footer": "Feito por {luki} com uma ajuda do {giv} (clique no usuário para ver o perfil no GitHub)"
+}

@@ -1,0 +1,12 @@
+{
+  "header": "Cuteness test",
+  "cute_low": "You are {value}% cute...",
+  "results_low": "You're not very cute. Refresh the page or click anywhere if you'd like to try again.",
+  "cute_mid": "You are {value}% cute.",
+  "results_mid": "You're somewhat cute. Refresh the page or click anywhere if you're not satisfied.",
+  "cute_high": "You are {value}% cute!",
+  "results_high": "You're fairly cute! Feel free to refresh or click anywhere if you want a different result.",
+  "cute_max": "You are {value}% cute!!!",
+  "results_max": "You're absolutely adorable! If you're curious, refresh or click anywhere to see if it changes.",
+  "footer": "Made by {luki} with the some help of {giv} (click on the user to view their GitHub profile)"
+}
